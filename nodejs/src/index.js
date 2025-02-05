@@ -1,5 +1,3 @@
-# Nodejs_Tutorial
-
 // ASYNC AWAIT FUNCTION
 
 // const fetchPromise1 = async ()=> {
