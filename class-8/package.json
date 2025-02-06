@@ -1,0 +1,15 @@
+{
+  "name": "class-8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cjs-sample/src/lib/main",
+    "startesm": "node esm-sample/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
