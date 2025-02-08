@@ -14,3 +14,4 @@ app.use( express.urlencoded( {extended: true} ) );
 
 // EXPORTING THE MIDDLEWARE
 module.exports = { app, server};
+module
